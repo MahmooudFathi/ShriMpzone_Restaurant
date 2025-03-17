@@ -1,6 +1,6 @@
 # React JS Korlake Restaurant Website
 
-## View live website: https://ionut-cora.github.io/react-restaurant/
+## View live website: (https://shrimpzone-restaurant.vercel.app/)
 
 <img src="ShriMpzone.png" alt="ShriMpzone Restaurant" />
 
